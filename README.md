@@ -95,7 +95,7 @@ Os indicadores são inicialmente calculados para cada dia e, posteriormente, som
 | `ONI` | Oceanic Niño Index: anomalia da temperatura da superfície do mar, calculada como média móvel de três meses na região Niño 3.4 do Pacífico equatorial. | Numérico | °C |
 
 **Fonte do ONI:** NOAA Climate Prediction Center (CPC).  
-Documentação: https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/index.php
+Documentação: [https://www.cpc.ncep.noaa.gov/data/](https://www.cpc.ncep.noaa.gov/data/)
 
 
 ### 3. Fontes de dados
@@ -104,6 +104,6 @@ Documentação: https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/
 - **Dados climáticos:** ERA5, obtidos por meio da API do Mosqlimate. Os dados incluem variáveis meteorológicas diárias utilizadas no cálculo de indicadores climáticos e na agregação por semana epidemiológica e município.  
   Documentação: https://api.mosqlimate.org/docs/datastore/GET/climate/
 - **Índices Oceânico Niño:** National Oceanic and Atmospheric Administration (NOAA), fonte dos dados do Oceanic Niño Index (ONI) e das respectivas estações móveis de três meses (`SEAS`), utilizados para caracterizar condições associadas ao fenômeno El Niño–Oscilação Sul (ENSO).  
-  Documentação: https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/index.php
+  Documentação: https://www.cpc.ncep.noaa.gov/data/
 
 
