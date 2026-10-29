@@ -21,8 +21,8 @@ Os dados são organizados por município e semana epidemiológica, permitindo in
 |---|---|---|---|
 | `cod_mun_res` | Código de identificação do município de residência utilizado na base epidemiológica. | Inteiro ou texto numérico | Código municipal |
 | `date` | Data de referência da observação semanal, conforme a base integrada. | Data | AAAA-MM-DD |
-| `epiyear` | Ano epidemiológico correspondente à observação. | Inteiro | Ano |
-| `epiweek` | Número da semana epidemiológica correspondente à observação. | Inteiro | Semana epidemiológica |
+| `epiyear` | Ano epidemiológico de início dos sintomas. | Inteiro | Ano |
+| `epiweek` | Número da semana epidemiológica de início de sintomas. | Inteiro | Semana epidemiológica |
 
 #### 2.2. Variáveis epidemiológicas
 
