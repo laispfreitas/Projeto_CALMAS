@@ -1,6 +1,6 @@
 # Projeto_CALMAS
 
-[![DOI](https://zenodo.org/badge/DOI/SEU_DOI.svg)](https://doi.org/SEU_DOI)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23786208.svg)](https://doi.org/10.5281/zenodo.23786208)
 
 
 ## Dicionário de dados — `dados_municipio_semana_2000-2024.RData`
