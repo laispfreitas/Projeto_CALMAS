@@ -1,5 +1,8 @@
 # Projeto_CALMAS
 
+[![DOI](https://zenodo.org/badge/DOI/SEU_DOI.svg)](https://doi.org/SEU_DOI)
+
+
 ## Dicionário de dados — `dados_municipio_semana_2000-2024.RData`
 
 ### 1. Descrição da base
